@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://regnum.ru/uploads/pictures/news/2017/04/04/regnum_picture_1491334903189596_big.jpg");
+}
+
+.keys{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.key{
+    min-height: 100vh;
+    min-width: 14vw;
+}
